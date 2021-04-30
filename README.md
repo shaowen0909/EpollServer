@@ -15,6 +15,8 @@ cmake version 3.16.3
 ##### 1. Running the program:
 
 ```shell
+# Make sure you're in the Git repository.
+mkdir build
 cd build
 cmake ../
 make
